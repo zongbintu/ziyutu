@@ -1,0 +1,37 @@
+name: Build and Deploy Website
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Use Node.js 16.20.2
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16.20.2
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Install Hexo
+      run: npm install hexo-cli -g
+      
+    - name: Build website
+      run: |
+        hexo g
+        
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v3
+      with:
+        target_branch: main
+        build_dir: public
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
