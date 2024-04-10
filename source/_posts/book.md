@@ -4,7 +4,7 @@ title: 阅读记录
 
 1.  父与子全集
 
-    ![父与子全集](fuyuziquanji.png)
+    ![父与子全集](fuyuziquanji.jpg)
 	2024/1/1——2024/3/18
 2.  小布头奇遇记
 
