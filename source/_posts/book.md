@@ -2,7 +2,14 @@
 title: 阅读记录
 ---
 
+-  小狗的小房子
 
+    ![小狗的小房子](xiaogoudexiaofangzi.jpg)
+	2024/8/20
+-  一只想飞的猫
+
+    ![一只想飞的猫](yizhixiangfeidemao.jpg)
+	2024/8/20
 -  小鲤鱼跳龙门
 
     ![小鲤鱼跳龙门](xiaoliyutiaolongmen.jpg)
