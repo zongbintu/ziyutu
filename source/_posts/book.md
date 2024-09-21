@@ -2,6 +2,11 @@
 title: 阅读记录
 ---
 
+-  "歪脑袋"木头桩
+
+    ![](wainaodaimutouzhuang.jpg)
+	2024/9/21
+
 -  小狗的小房子
 
     ![小狗的小房子](xiaogoudexiaofangzi.jpg)
