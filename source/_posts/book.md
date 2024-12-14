@@ -2,6 +2,17 @@
 title: 阅读记录
 ---
 
+
+-  狗来了
+
+    ![](goulaile.jpg)
+	2024/12/11
+    
+-  小巴掌童话
+
+    ![](xiaobazhangtonghua.jpg)
+	2024/11/13
+    
 -  "歪脑袋"木头桩
 
     ![](wainaodaimutouzhuang.jpg)
